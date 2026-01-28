@@ -1,2 +1,3 @@
 # deneme-cs-102-
-des
+d%%%es
+my firstest
